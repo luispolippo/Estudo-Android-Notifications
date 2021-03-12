@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "263446348385",
+    "project_id": "notification-app-b3bc4",
+    "storage_bucket": "notification-app-b3bc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263446348385:android:75eec04debdd9e7f33a020",
+        "android_client_info": {
+          "package_name": "com.polippo.applicationnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263446348385-j9314s4473s8diip82pjk3bur1vljeca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIAt9S2TNu8kIiPgzxoycqTWHRMbw3GnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263446348385-j9314s4473s8diip82pjk3bur1vljeca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
